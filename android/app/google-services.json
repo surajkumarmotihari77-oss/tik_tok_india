@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565896002759",
+    "project_id": "tik-tok-india-2f570",
+    "storage_bucket": "tik-tok-india-2f570.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565896002759:android:2f6e1a2212d3e8111e12e2",
+        "android_client_info": {
+          "package_name": "Com.suraj.tiktokindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjtgk3Qg-F_ac3utq302GfutFCqNMM6gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
